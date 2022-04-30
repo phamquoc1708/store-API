@@ -1,0 +1,60 @@
+[
+    
+    {
+        "id": "1",
+        "fullName": "Phan Thị Mỹ Tâm",
+        "gender": "nu",
+        "birthday": "16/01/1981",
+        "homeTown": "Đà Nẵng",
+        "job": "Ca Sĩ",
+        "marriage": "Độc thân",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/M%E1%BB%B9_T%C3%A2m_%E1%BB%9F_ph%C3%B2ng_tr%C3%A0_%C4%90%E1%BB%93ng_Dao_July_2012_%282%29_cropped.jpg/320px-M%E1%BB%B9_T%C3%A2m_%E1%BB%9F_ph%C3%B2ng_tr%C3%A0_%C4%90%E1%BB%93ng_Dao_July_2012_%282%29_cropped.jpg"
+    },
+    
+    
+   
+    
+   
+   
+    {
+        "id": "2",
+        "fullName": "Đặng Thị Mỹ Dung",
+        "gender": "nu",
+        "birthday": "05/10/1989",
+        "homeTown": "Thành Phố Hồ Chí Minh",
+        "job": "Ca Sĩ",
+        "marriage": "Độc thân",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Midu_Um_Ba_La_Ra_Chu_Gi_2019%282%29.png/320px-Midu_Um_Ba_La_Ra_Chu_Gi_2019%282%29.png"
+    },
+    {
+        "id": "3",
+        "fullName": "Nguyễn Thanh Tùng",
+        "gender": "nam",
+        "birthday": "05/07/1994",
+        "homeTown": "Thái Bình",
+        "job": "Ca Sĩ",
+        "marriage": "Độc Thân",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Son_Tung_M-TP_1_%282017%29.png/1200px-Son_Tung_M-TP_1_%282017%29.png"
+    },
+    {
+        "id": "4",
+        "fullName": "Trịnh Trần Phương Tuấn",
+        "gender": "nam",
+        "birthday": "12/04/1997",
+        "homeTown": "Bến Tre",
+        "job": "Ca Sĩ",
+        "marriage": "Đã Có Gia Đình",
+        "url": "https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w860/Uploaded/opluoaa/2021_08_10/142117983_1134917350304726_3322443094272539767_n.jpg"
+    },
+    {
+        "id": "5",
+        "fullName": "Trần Thị Thủy Tiên",
+        "gender": "nu",
+        "birthday": "25/11/1985",
+        "homeTown": "Kiên Giang",
+        "job": "Ca Sĩ",
+        "marriage": "Đã có chồng",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ThuyTienTran.png/320px-ThuyTienTran.png"
+    }
+    
+]

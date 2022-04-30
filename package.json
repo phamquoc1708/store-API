@@ -1,0 +1,32 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamquoc1708/store-API.git"
+  },
+  "keywords": [
+    "store",
+    "API"
+  ],
+  "author": "PhamQuoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamquoc1708/store-API/issues"
+  },
+  "homepage": "https://github.com/phamquoc1708/store-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
